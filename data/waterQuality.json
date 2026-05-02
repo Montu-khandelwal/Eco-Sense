@@ -1,0 +1,230 @@
+[
+  {
+    "location": "Harmara",
+    "lat": 27.01,
+    "lng": 75.77,
+    "fluoride": 0.4,
+    "nitrate": 22.94,
+    "tds": 564
+  },
+  {
+    "location": "Amer",
+    "lat": 26.99,
+    "lng": 75.86,
+    "fluoride": 0.46,
+    "nitrate": 9.92,
+    "tds": 896
+  },
+  {
+    "location": "Kukas",
+    "lat": 27.03,
+    "lng": 75.89,
+    "fluoride": 0.5,
+    "nitrate": 76.88,
+    "tds": 465
+  },
+  {
+    "location": "Ravinramanch",
+    "lat": 26.91,
+    "lng": 75.82,
+    "fluoride": 0.6,
+    "nitrate": 182.28,
+    "tds": 1076
+  },
+  {
+    "location": "Galtagi",
+    "lat": 26.92,
+    "lng": 75.86,
+    "fluoride": 0.9,
+    "nitrate": 4.96,
+    "tds": 164
+  },
+  {
+    "location": "Kalwar",
+    "lat": 26.96,
+    "lng": 75.68,
+    "fluoride": 1.3,
+    "nitrate": 6.82,
+    "tds": 554
+  },
+  {
+    "location": "Niwaroo-1",
+    "lat": 26.97,
+    "lng": 75.69,
+    "fluoride": 1.3,
+    "nitrate": 6.82,
+    "tds": 331
+  },
+  {
+    "location": "A_Cantt_Pz",
+    "lat": 26.98,
+    "lng": 75.71,
+    "fluoride": 0.4,
+    "nitrate": 9.92,
+    "tds": 221
+  },
+  {
+    "location": "Jhotwara",
+    "lat": 26.95,
+    "lng": 75.75,
+    "fluoride": 0.4,
+    "nitrate": 3.1,
+    "tds": 170
+  },
+  {
+    "location": "Sirsi_Pz",
+    "lat": 26.91,
+    "lng": 75.68,
+    "fluoride": 1.9,
+    "nitrate": 19.22,
+    "tds": 432
+  },
+  {
+    "location": "Niwaroo-2",
+    "lat": 26.97,
+    "lng": 75.71,
+    "fluoride": 0.8,
+    "nitrate": 13.02,
+    "tds": 331
+  },
+  {
+    "location": "Kanakpura",
+    "lat": 26.92,
+    "lng": 75.72,
+    "fluoride": 1.9,
+    "nitrate": 19.84,
+    "tds": 313
+  },
+  {
+    "location": "Vidhyadhar_Nagar",
+    "lat": 26.97,
+    "lng": 75.78,
+    "fluoride": 0.6,
+    "nitrate": 63.86,
+    "tds": 440
+  },
+  {
+    "location": "Govt_Hostel",
+    "lat": 26.92,
+    "lng": 75.8,
+    "fluoride": 0.4,
+    "nitrate": 151.9,
+    "tds": 779
+  },
+  {
+    "location": "Goner",
+    "lat": 26.78,
+    "lng": 75.91,
+    "fluoride": 0.9,
+    "nitrate": 27.9,
+    "tds": 330
+  },
+  {
+    "location": "Heerapura",
+    "lat": 26.87,
+    "lng": 75.74,
+    "fluoride": 2.3,
+    "nitrate": 107.26,
+    "tds": 1479
+  },
+  {
+    "location": "Khori",
+    "lat": 26.86,
+    "lng": 75.91,
+    "fluoride": 0.6,
+    "nitrate": 73.78,
+    "tds": 666
+  },
+  {
+    "location": "Mahel",
+    "lat": 26.81,
+    "lng": 75.86,
+    "fluoride": 1.9,
+    "nitrate": 40.92,
+    "tds": 1144
+  },
+  {
+    "location": "GWD_Campus",
+    "lat": 26.87,
+    "lng": 75.82,
+    "fluoride": 0.6,
+    "nitrate": 153.76,
+    "tds": 595
+  },
+  {
+    "location": "OTS",
+    "lat": 26.87,
+    "lng": 75.81,
+    "fluoride": 2.3,
+    "nitrate": 21.7,
+    "tds": 335
+  },
+  {
+    "location": "Bilwa",
+    "lat": 26.76,
+    "lng": 75.85,
+    "fluoride": 0.9,
+    "nitrate": 40.3,
+    "tds": 899
+  },
+  {
+    "location": "Muhana",
+    "lat": 26.79,
+    "lng": 75.73,
+    "fluoride": 1.0,
+    "nitrate": 14.88,
+    "tds": 740
+  },
+  {
+    "location": "Nevta",
+    "lat": 26.8,
+    "lng": 75.68,
+    "fluoride": 1.3,
+    "nitrate": 14.26,
+    "tds": 685
+  },
+  {
+    "location": "Sanganer",
+    "lat": 26.82,
+    "lng": 75.78,
+    "fluoride": 0.3,
+    "nitrate": 14.26,
+    "tds": 265
+  },
+  {
+    "location": "Dahmi_Kalan",
+    "lat": 26.84,
+    "lng": 75.57,
+    "fluoride": 0.9,
+    "nitrate": 3.1,
+    "tds": 391
+  },
+  {
+    "location": "Bhankrota",
+    "lat": 26.87,
+    "lng": 75.7,
+    "fluoride": 0.3,
+    "nitrate": 66.96,
+    "tds": 524
+  },
+  {
+    "location": "Dehmi_Kalan",
+    "fluoride": 0.56,
+    "tds": 1267.66,
+    "nitrate": 56.93
+  },
+  {
+    "location": "Girdharpura",
+    "fluoride": 0.33,
+    "tds": 4510,
+    "nitrate": 48.71
+  },
+  {
+    "location": "RIICO_Industrial",
+    "fluoride": 1.07,
+    "tds": 1820,
+    "nitrate": 18.534
+  },
+  { "location": "Bagru", "fluoride": 0.6, "tds": 1002, "nitrate": 58.196 },
+  { "location": "Sitapura", "fluoride": 0.63, "tds": 1493, "nitrate": 56.056 }
+]
