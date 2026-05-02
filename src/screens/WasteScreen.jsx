@@ -69,7 +69,7 @@ export default function WasteScreen({ notify }) {
           </span>
 
           <p className="eyebrow accent">Waste Score</p>
-          <h2>{waste.today ?? waste.score}</h2><h2>{waste.score}</h2>
+         <h2>{waste.today ?? waste.score ?? "--"}</h2>
 
           <p>
             {waste.level === "HIGH"
